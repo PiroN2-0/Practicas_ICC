@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33852779/README.md)
 # Prácticas ICC
 Este repositorio contiene el desarrollo de las prácticas del curso de Introducción a Ciencias de la Computación.
 ## Contenido
